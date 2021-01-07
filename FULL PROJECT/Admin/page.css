@@ -1,0 +1,240 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-image: url(perlament_house.jpg);
+    height: 620px;
+    width: 1250px;
+    background-position: center;
+
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu-bar{
+    background: white;
+    height: 75px;
+    width: 1364px;
+    text-align: center;
+}
+
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.menu-bar ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.menu-bar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/* 1st bar*/
+.mins-1{
+    background: wheat;
+    height: 56px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-1 ul li{
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-1 ul li a{
+    text-decoration: none;
+    color:black;
+}
+
+
+
+/*2nd bar*/
+.mins-2{
+    background : wheat;
+    height: 80px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-2 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-2 ul li{
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-2 ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*3rd bar*/
+.mins-3{
+    background : wheat;
+    height: 50px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-3 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-3 ul li{
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-3 ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*4th bar*/
+.mins-4{
+    background : wheat;
+    height: 55px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-4 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-4 ul li{
+    width: 190px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-4 ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*5th bar*/
+.mins-5{
+    background : wheat;
+    height: 55px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-5 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-5 ul li{
+    width: 190px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-5 ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/*6th bar*/
+.mins-6{
+    background : wheat;
+    height: 60px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-6 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-6 ul li{
+    width: 185px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-6 ul li a{
+    text-decoration: none;
+    color:black;
+}
+
+
+/*7th bar*/
+.mins-7{
+    background : wheat;
+    height: 60px;
+    width: 1364px;
+    text-align: center;
+}
+
+.mins-7 ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+
+}
+
+.mins-7 ul li{
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mins-7 ul li a{
+    text-decoration: none;
+    color:black;
+}
+
+.apply{
+    background : wheat;
+    height: 300px;
+    width: 800px;
+    text-align: center;
+
+}
+

@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 120%;
+    background-color: aliceblue;
+}
+
+.img-logo{
+    width: 100px;
+
+     
+}
+
+.reg{
+
+    width: 30%;
+    margin: 100px auto 0px;
+    background: #549396;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+form{
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+
+}
+
+.input-group{
+    margin: 20px 0px 20px 0px;
+}
+
+
+
+
+.btn{
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    background: rgb(88, 153, 179);
+    border: 10px;
+    border-radius: 10px;
+}
+
